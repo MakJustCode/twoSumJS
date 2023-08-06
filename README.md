@@ -1,2 +1,2 @@
 # twoSumJS
-Solved the two sum algorithm using a dictionary.
+Solved the two sum Leetcode question in one interation using a dictionary.
